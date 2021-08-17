@@ -1,7 +1,7 @@
 **File structure**
 
 When I create this application I created seperate folders for implement the backend.
-In the resturent folder I created seperate folders for routes, database models and the middleware.
+In the resturent folder I created seperate folders for Endpoints, Database models and the Controllers.
 And also I create .env file to store the MongoDB database connection link.
 
 **Follow below Steps to Clone and Run the Application**
